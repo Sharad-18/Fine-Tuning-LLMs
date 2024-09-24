@@ -1,4 +1,4 @@
-# Fine-Tuning-LLMs
+# Fine-Tuning-LLMs Using Unsloth
 
 This repository contains Jupyter notebooks for supervised fine-tuning of various state-of-the-art language models: LLaMA2, LLaMA3, Gemma2, and Qwen2.5. Each notebook demonstrates the steps for loading a model, preparing the dataset, fine-tuning, and evaluating the results.
 
@@ -7,6 +7,7 @@ This repository contains Jupyter notebooks for supervised fine-tuning of various
 2. **LLaMA3**
 3. **Gemma2**
 4. **Qwen2.5**
+5. **Phi3.5**
 
 ### Overview
 
